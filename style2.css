@@ -1,0 +1,38 @@
+.category-item{
+    background-color: #3837e4;
+    color: #fff;
+}
+.category-item ul li h4{
+    color: white;
+    gap: 5px;
+    /* align-items: center; */
+    display: flex;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+}
+li {
+    display: list-item;
+}
+.category-item ul li img {
+    width: 20px;
+    filter: brightness(0) invert(100%);
+    
+}
+span{
+
+}
+/* .category-item ul li h4{
+    gap: 5px;
+    font-size:20px;
+    font-weight: 600;
+    color: white;
+} */
+.category-item ul li a{
+    text-decoration: none;
+}
